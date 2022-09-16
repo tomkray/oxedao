@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc11dc250C4775A15801638e9709bF543ac4911BC",
+  "SCAN_LINK": "https://etherscan.io/token/0xc11dc250c4775a15801638e9709bf543ac4911bc",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MOVIE COLLECTIVE",
+  "SYMBOL": "MOVIE",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 165000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/movie-collective",
+  "SHOW_BACKGROUND": true
+}
